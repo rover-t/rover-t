@@ -1,6 +1,9 @@
 -Hi, I’m @rover-t
+
 -I’m interested in java, python, c++, and mechanical engineering
+
 -I’m currently learning python
+
 -How to reach me trevor.ortega5@gmail.com
 
 <!---
