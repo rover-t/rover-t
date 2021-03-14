@@ -4,7 +4,7 @@
 
 -I’m currently learning python
 
--How to reach me trevor.ortega5@gmail.com
+-Reach me at: trevor.ortega5@gmail.com
 
 <!---
 rover-t/rover-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
